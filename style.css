@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;}
+.mainbox{
+    width:500px;
+    height:250px;
+    background-color: blue;
+
+}
+.sale{
+    color:white;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+.box{
+    width:80%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    color:white;
+    margin-top:30px;
+    margin-left: 60px;
+}
+input{
+    width:50%;
+    height:30px;
+    background-color: white;
+    color:black;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+
+
+
+
